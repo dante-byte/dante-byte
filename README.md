@@ -8,5 +8,5 @@ I'm Dante White
 - 👾 I'm experience in Java Angular and React
 - 👾 I'm also experience in deploying applications on AWS and GCP platforms 
 - 👾 You can find my portfolio at https://dantewhite.com 
-- 👾 I can be reached at softwareengineer@dantewhite.com tel: 470-278-3590
+
 
